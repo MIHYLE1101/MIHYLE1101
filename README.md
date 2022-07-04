@@ -1,4 +1,4 @@
-- This is my personal note. I'll use this webpage as a record of my study.
+- This is my personal note. I'll use this webpage as a record of my studies.
 
 <!---
 MIHYLE1101/MIHYLE1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
